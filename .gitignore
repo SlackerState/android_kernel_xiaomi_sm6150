@@ -137,3 +137,4 @@ clang/
 
 # AnyKernel
 AnyKernel3/
+build.sh
